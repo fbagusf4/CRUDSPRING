@@ -1,0 +1,8 @@
+ingenious\practical2\Practical2Application.class
+ingenious\practical2\repository\StockRepository.class
+ingenious\practical2\task\StockJob.class
+ingenious\practical2\task\ConfigJob.class
+ingenious\practical2\service\StockServiceImpl.class
+ingenious\practical2\model\StockDTO.class
+ingenious\practical2\service\StockService.class
+ingenious\practical2\controller\StockController.class
